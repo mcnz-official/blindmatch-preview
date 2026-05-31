@@ -1,0 +1,6 @@
+import{Z as r,ao as s,a5 as t,P as i,c as n}from"./index-DbMXLpCU.js";import{u as h,C as c}from"./ChatRoom-DXuPLXNu.js";import"./Spinner-BboPe5T8.js";import"./DataState-BzEm_3qz.js";import"./useMutation-B8zwqf9_.js";import"./useQuery-BQx1iCbE.js";import"./send-B3VzL35m.js";import"./user-BopAo5Wu.js";/**
+ * @license lucide-react v0.469.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=r("ClipboardList",[["rect",{width:"8",height:"4",x:"8",y:"2",rx:"1",ry:"1",key:"tgr4d6"}],["path",{d:"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2",key:"116196"}],["path",{d:"M12 11h4",key:"1jrz19"}],["path",{d:"M12 16h4",key:"n85exb"}],["path",{d:"M8 11h.01",key:"1dfujw"}],["path",{d:"M8 16h.01",key:"18s6g9"}]]);function v(){var e;const a=s(),o=((e=h().data)==null?void 0:e.partner.nickname)??"대화";return t.jsxs("div",{className:"flex h-[100dvh] flex-col bg-bg text-fg",children:[t.jsx(i,{title:o,onBack:()=>a.navigate({to:"/home"}),actions:t.jsx(n,{variant:"ghost",size:"icon","aria-label":"만남 후 설문",onClick:()=>a.navigate({to:"/survey"}),children:t.jsx(d,{className:"h-5 w-5","aria-hidden":!0})})}),t.jsx(c,{})]})}export{v as component};

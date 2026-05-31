@@ -1,0 +1,1 @@
+import{a5 as t}from"./index-DbMXLpCU.js";import{S as e}from"./Spinner-BboPe5T8.js";function i(){return t.jsxs("div",{className:"flex min-h-full flex-col items-center justify-center gap-4 bg-bg text-fg",children:[t.jsx("h1",{className:"text-2xl font-extrabold tracking-tight",children:"BlindMatch"}),t.jsx(e,{size:"lg"})]})}export{i as component};

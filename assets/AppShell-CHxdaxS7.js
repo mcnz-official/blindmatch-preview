@@ -1,0 +1,1 @@
+import{a5 as l,Y as a}from"./index-DbMXLpCU.js";function r({header:e,footer:s,className:x,children:f,...o}){return l.jsxs("div",{className:a("flex min-h-full flex-col bg-bg text-fg",x),...o,children:[e,l.jsx("div",{className:"flex flex-1 flex-col overflow-y-auto",children:f}),s]})}export{r as A};
